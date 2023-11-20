@@ -1,4 +1,4 @@
-## 👋 Olá, sou Vinicius Onorato Carvalho e esse é o meu perfil do GitHub!
+## 👋 Olá, sou Vinicius Carvalho e esse é o meu perfil do GitHub!
 
 ### Redes Sociais
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuscarvalho6427/)
